@@ -1,2 +1,6 @@
 # hello-world
-Hello world repository.
+Hello people.
+
+I am writing to you from my computer.
+
+Enjoy.
